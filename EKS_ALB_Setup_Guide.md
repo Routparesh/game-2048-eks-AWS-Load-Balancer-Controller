@@ -1,3 +1,5 @@
+![game-2048](258144320-93b06a9f-67f9-404f-b0ad-18e3095b7353.png)
+
 Create EKS Cluster on AWS with ALB Ingress
 
 ## 🔹 Prerequisites
